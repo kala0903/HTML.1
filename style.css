@@ -312,7 +312,7 @@ height: 100%;
         flex-direction: column;
         margin: 0px 20px;
         padding: 20px 20px;
-        background: #FFF;
+        background: #ffffff7c;
         border-radius: 10px;
         font-size: 26px;
         
@@ -342,7 +342,7 @@ height: 100%;
     
     }
     .box1 span{
-        color: rgb(212, 5, 5);
+        color: #2c677c;
         font-size: 30px;
     }
     .box2 h6{
@@ -353,16 +353,16 @@ height: 100%;
         flex-direction: column;
         margin: 0px 20px;
         padding: 20px 20px;
-        background: #FFF;
+        background:#ffffff7c ;
         border-radius: 10px;
         font-size: 26px;
     }
     .box2 span{
-        color: rgb(204, 12, 12);
+        color: #2c677c;
         font-size: 30px;
     }
     .box3 span{
-        color: rgb(220, 7, 7);
+        color: #2c677c;
         font-size: 30px;
     }
     
@@ -375,7 +375,7 @@ height: 100%;
         flex-direction: column;
         margin: 0px 20px;
         padding: 20px 20px;
-        background: #FFF;
+        background: #ffffff7c;
         border-radius: 10px;
         font-size: 28px;
     }
