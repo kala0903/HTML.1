@@ -105,7 +105,7 @@ button{
     margin-left: 21px;
     padding: 13px 18px;
     background: transparent;
-    border-bottom: 1px solid #fd00ff;
+    border-bottom: 1px solid #d6ff00;
 
 }
 
@@ -297,7 +297,7 @@ height: 100%;
     .box23{
         width: 85%;
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         align-items: center;
         margin: 75px auto;
         text-align: center;
@@ -434,6 +434,7 @@ height: 100%;
     transition: 0.5s;
 
 }
+
 
 
 
